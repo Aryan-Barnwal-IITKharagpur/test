@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.455b5a8a.css",
+    "main.js": "/static/js/main.78cf4a57.js",
+    "static/js/787.1966b5b1.chunk.js": "/static/js/787.1966b5b1.chunk.js",
+    "static/media/amplichat_iphones_two.png": "/static/media/amplichat_iphones_two.e0be32ba0e8895ab1249.png",
+    "static/media/concert_classic.jpeg": "/static/media/concert_classic.0ce164e262c858bb9d2f.jpeg",
+    "static/media/guitar.jpg": "/static/media/guitar.1a61217c7733f88c82f5.jpg",
+    "static/media/amplichat.png": "/static/media/amplichat.5d416e336fe7b37808ea.png",
+    "static/media/event_phones.jpg": "/static/media/event_phones.38f6990025d816a1752d.jpg",
+    "static/media/purple_light.avif": "/static/media/purple_light.67892d9ee27f498642ec.avif",
+    "static/media/purple_phones.jpg": "/static/media/purple_phones.f917140f6d5235b01e69.jpg",
+    "static/media/foggy_blue.jpg": "/static/media/foggy_blue.0b21b1480083c49e32aa.jpg",
+    "static/media/google_play_badge.png": "/static/media/google_play_badge.a14b0a2f085d99a3ac5a.png",
+    "index.html": "/index.html",
+    "main.455b5a8a.css.map": "/static/css/main.455b5a8a.css.map",
+    "main.78cf4a57.js.map": "/static/js/main.78cf4a57.js.map",
+    "787.1966b5b1.chunk.js.map": "/static/js/787.1966b5b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.455b5a8a.css",
+    "static/js/main.78cf4a57.js"
+  ]
+}
